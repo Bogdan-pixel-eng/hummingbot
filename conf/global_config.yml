@@ -1,0 +1,3 @@
+global:
+  symbol_shape: default
+  logfile: logs/hummingbot.log

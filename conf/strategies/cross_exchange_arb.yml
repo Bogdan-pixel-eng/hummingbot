@@ -1,0 +1,6 @@
+strategy: cross_exchange_market_making
+primary_market: binance
+secondary_market: okx
+market: usdt-uah
+order_amount: 50
+min_profitability: 0.005
